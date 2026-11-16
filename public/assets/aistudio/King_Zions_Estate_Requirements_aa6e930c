@@ -1,0 +1,23 @@
+﻿IMPORTANT PHOTO CORRECTION — DO NOT CROP THE IMAGE.
+
+
+Keep the wig photograph fully visible in its original composition.
+
+
+- Do not crop the woman's face.
+- Do not cut off her forehead, hairline, chin or hairstyle.
+- Do not cut off the sides or volume of her hair.
+- Do not zoom in or enlarge the image in a way that removes any part of the original photograph.
+- Preserve the original image aspect ratio.
+- Use "object-fit: contain" where necessary instead of "object-fit: cover".
+- Allow the image container to adjust its height naturally to accommodate the complete photograph.
+- Keep the image beautifully centered with its existing rounded corners.
+
+
+On mobile, tablet and desktop, the entire photograph must remain visible without unwanted cropping or distortion.
+
+
+The priority is to display the complete original photograph, not to force it into a fixed-height container.
+
+
+Make this adjustment without redesigning any other part of the website.

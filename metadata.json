@@ -1,0 +1,6 @@
+{
+  "name": "Beauty Hair Collection",
+  "description": "Premium wig boutique and wig buying guide helping you choose high-quality, long-lasting raw human hair wigs with confidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

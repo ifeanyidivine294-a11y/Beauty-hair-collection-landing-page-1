@@ -1,0 +1,668 @@
+﻿COMPLETE WEBSITE REBUILD — BEAUTY HAIR COLLECTION
+
+
+CRITICAL INSTRUCTION: DISCARD THE CURRENT IMPLEMENTATION AND REBUILD FROM SCRATCH
+
+
+Act as a senior UI/UX designer, luxury beauty website specialist, conversion strategist and full-stack developer with over 35 years of professional experience.
+
+
+You are rebuilding an existing project called BEAUTY HAIR COLLECTION.
+
+
+The current implementation is incorrect and must not be preserved.
+
+
+I am providing a previously generated UI design image. Study this image carefully and use it as the visual reference for the actual website you are about to build.
+
+
+VERY IMPORTANT: THE REFERENCE IMAGE IS A DESIGN BLUEPRINT, NOT AN IMAGE TO DISPLAY INSIDE THE WEBSITE.
+
+
+Do not insert the reference image into the website as a flyer, banner, poster, background image or complete-page screenshot.
+
+
+Instead, recreate every visible design element as actual website components using HTML, CSS, React and functional frontend elements.
+
+
+The website must be a real, responsive, interactive landing page.
+
+
+Do not simply modify the current layout. Rebuild the entire frontend properly.
+
+
+---
+
+
+1. REMOVE THE INCORRECT IMPLEMENTATION
+
+
+Completely remove the following from the current project:
+
+
+1. The embedded flyer or promotional image currently displayed inside the landing page.
+2. Any duplicate registration form outside or below the embedded image.
+3. The Google Sheets connection panel currently appearing at the top of the public website.
+4. The visible "Google Sheets Lead Destination" section.
+5. The public "Connect Google Sheets" button.
+6. Any visible API keys, secrets, technical credentials, configuration information or developer controls.
+7. Any unnecessary setup instructions displayed to website visitors.
+8. Any duplicated headlines, guide promotions or registration sections.
+
+
+Do not leave remnants of the old layout.
+
+
+Do not hide the incorrect flyer behind another element. Remove it completely.
+
+
+The website must contain only one coherent landing-page experience.
+
+
+---
+
+
+2. THE CORRECT WEBSITE STRUCTURE
+
+
+Build ONE complete landing page for:
+
+
+Business Name: Beauty Hair Collection
+
+
+Business Type: Premium Wig Boutique
+
+
+Location: Asaba, Delta State, Nigeria.
+
+
+The page must consist of actual, independently designed website sections.
+
+
+The correct structure is:
+
+
+SECTION 1: Minimal brand header.
+
+
+SECTION 2: Main hero section with headline, supporting text and luxury wig photography.
+
+
+SECTION 3: Free wig-buying guide promotional card.
+
+
+SECTION 4: Three educational benefits.
+
+
+SECTION 5: Actual registration form.
+
+
+SECTION 6: Privacy reassurance.
+
+
+SECTION 7: Elegant footer.
+
+
+All sections must flow naturally into one another.
+
+
+There must be NO complete-page flyer inserted anywhere.
+
+
+There must be NO second registration form.
+
+
+There must be NO public technical integration panel.
+
+
+---
+
+
+3. DESIGN REFERENCE AND VISUAL IDENTITY
+
+
+Follow the supplied reference image closely.
+
+
+The intended aesthetic is premium, feminine, sophisticated and luxurious.
+
+
+Use this exact colour system:
+
+
+- Blush Pink: #F7E7EC
+- Soft Rose: #EAC6D1
+- Champagne Gold: #D6B477
+- Deep Plum: #392632
+- Warm Ivory: #FFF9F6
+- White: #FFFFFF
+- Rich Berry: #B90D55
+
+
+Typography:
+
+
+- Playfair Display for headlines.
+- DM Sans for paragraphs and form elements.
+- Elegant script typography for limited decorative branding.
+
+
+Design characteristics:
+
+
+- Soft pink background.
+- Deep-plum typography.
+- Champagne-gold decorative details.
+- Elegant ivory form card.
+- Premium photography.
+- Sophisticated spacing.
+- Rounded corners.
+- Subtle shadows.
+- Refined borders.
+- Beautiful visual hierarchy.
+
+
+Do not introduce unrelated colours or a different design direction.
+
+
+---
+
+
+4. HEADER
+
+
+Create a real website header.
+
+
+Display the brand name:
+
+
+BEAUTY HAIR COLLECTION
+
+
+Subtitle:
+
+
+PREMIUM WIG BOUTIQUE
+
+
+Use an elegant typographic logo or a properly designed hair-inspired brand symbol.
+
+
+Keep the header minimal.
+
+
+Do not include navigation menus, shopping carts, login buttons or unnecessary links.
+
+
+---
+
+
+5. HERO SECTION
+
+
+Create a real editorial hero section.
+
+
+DESKTOP LAYOUT:
+
+
+Use a sophisticated two-column composition.
+
+
+LEFT COLUMN:
+
+
+- Brand headline.
+- Supporting paragraph.
+- Free-guide promotional information.
+- Educational benefits.
+
+
+RIGHT COLUMN:
+
+
+- Large, beautiful editorial photograph of a Black Nigerian woman wearing a luxurious natural-looking black lace-front wig.
+
+
+MOBILE LAYOUT:
+
+
+Stack the content naturally.
+
+
+The headline and supporting text should appear first, followed by the hero photography and promotional information.
+
+
+Do not compress the entire desktop layout into a small image.
+
+
+Headline:
+
+
+"Tired of Wasting Money on Wigs That Don't Last?"
+
+
+Supporting paragraph:
+
+
+"Buying the perfect wig shouldn't be confusing. Discover what to look out for before spending your money, so you can choose a wig that gives you lasting beauty and value."
+
+
+Use elegant serif typography.
+
+
+Highlight "That Don't Last?" using a sophisticated berry-pink accent.
+
+
+The photograph must be an actual website image element, not a picture of the entire reference design.
+
+
+---
+
+
+6. FREE GUIDE PROMOTIONAL SECTION
+
+
+Create an actual HTML promotional card.
+
+
+It must NOT be an image of a promotional flyer.
+
+
+Guide title:
+
+
+"7 Mistakes to Avoid When Buying a Wig"
+
+
+Use:
+
+
+- Deep-plum background.
+- Champagne-gold accents.
+- Large elegant number 7.
+- Beautiful serif typography.
+- Rounded corners.
+- Subtle shadows.
+
+
+Below the guide title, display three separate benefit rows.
+
+
+Benefit 1:
+
+
+"Learn how to identify poor-quality wigs before purchasing."
+
+
+Benefit 2:
+
+
+"Understand the difference between wig textures, hair types and quality."
+
+
+Benefit 3:
+
+
+"Discover how to avoid common buying mistakes that waste your money."
+
+
+Use small, elegant champagne-gold checkmark icons.
+
+
+Each benefit must be actual editable website text.
+
+
+---
+
+
+7. REGISTRATION FORM
+
+
+THIS SECTION IS EXTREMELY IMPORTANT.
+
+
+Create ONE genuine, functional registration form.
+
+
+Position it naturally below the guide promotion and educational benefits.
+
+
+On desktop, it may sit beside the hero content or occupy a balanced full-width section.
+
+
+On mobile, it must be a beautiful full-width card below the promotional content.
+
+
+Form card styling:
+
+
+- Warm ivory background.
+- Fine champagne-gold border.
+- Elegant rounded corners.
+- Subtle shadow.
+- Proper internal spacing.
+
+
+Heading:
+
+
+"Get Your FREE Wig Buying Guide"
+
+
+Supporting text:
+
+
+"Enter your details below and receive your free guide."
+
+
+Required fields:
+
+
+1. Full Name
+2. Email Address
+3. Phone Number
+
+
+Primary CTA:
+
+
+"Send Me the Free Guide"
+
+
+Button styling:
+
+
+- Rich berry-pink background.
+- White text.
+- Full-width on mobile.
+- Elegant rounded corners.
+- Subtle hover effect.
+
+
+There must be only ONE registration form and ONE primary CTA button on the entire landing page.
+
+
+Do not put a form outside a flyer.
+
+
+Do not put a flyer inside the form.
+
+
+The form itself must be a genuine HTML form with working input fields and submission functionality.
+
+
+---
+
+
+8. PRIVACY REASSURANCE
+
+
+Below the form, display:
+
+
+"Your information is safe with us. No spam. Just helpful beauty tips."
+
+
+Use a subtle security icon and elegant champagne-gold divider.
+
+
+---
+
+
+9. FOOTER
+
+
+Create a genuine responsive footer.
+
+
+Use deep plum with champagne-gold decorative details.
+
+
+Display:
+
+
+BEAUTY HAIR COLLECTION
+
+
+LOOK GOOD. FEEL BEAUTIFUL.
+
+
+Keep it elegant and minimal.
+
+
+---
+
+
+10. GOOGLE SHEETS INTEGRATION — BACKEND ONLY
+
+
+Google Sheets must function as the customer lead destination.
+
+
+However, its connection interface must NEVER appear on the public landing page.
+
+
+Remove the existing Google Sheets panel from the website completely.
+
+
+Do not display:
+
+
+- Google Sheets Lead Destination.
+- Connect Google Sheets button.
+- Google authorization controls.
+- API configuration.
+- Developer secrets.
+- Technical integration information.
+
+
+These are not customer-facing website components.
+
+
+Actual Google Sheets integration
+
+
+Implement the Google Sheets connection securely in the application's backend or private integration configuration.
+
+
+I want to authorize my Google account through Google's official OAuth permission screen.
+
+
+The connection must allow me to approve the necessary permissions using my phone.
+
+
+Once authorization succeeds:
+
+
+Create or connect to a spreadsheet named:
+
+
+BEAUTY HAIR COLLECTION — CUSTOMER LEADS
+
+
+Create these columns:
+
+
+1. Lead ID
+2. Full Name
+3. Email Address
+4. Phone Number
+5. Submission Date
+6. Submission Time
+7. Lead Source
+8. Submission Status
+
+
+Every successful form submission must automatically create a new row.
+
+
+Never overwrite existing leads.
+
+
+Never delete previous records.
+
+
+Keep access tokens and credentials secure.
+
+
+Do not expose credentials in frontend code.
+
+
+Do not simulate the integration.
+
+
+Do not claim that Google Sheets is connected until authorization and an actual spreadsheet write have succeeded.
+
+
+If Google authorization must be completed through the builder's integration settings, guide me through that process separately rather than putting connection controls on the public website.
+
+
+---
+
+
+11. FORM SUBMISSION FUNCTIONALITY
+
+
+The form must:
+
+
+- Require all three fields.
+- Validate email addresses.
+- Validate phone numbers.
+- Reject empty submissions.
+- Display a loading state.
+- Prevent repeated submissions.
+- Save valid submissions to Google Sheets.
+- Display an error if saving fails.
+- Confirm successful saving before displaying the success state.
+
+
+After successful submission, display an elegant inline confirmation:
+
+
+"You're In! Your Details Have Been Received."
+
+
+"Thank you for joining Beauty Hair Collection. We're excited to help you make smarter wig-buying decisions."
+
+
+Keep the user on the same landing page.
+
+
+Do not create another page.
+
+
+Do not claim that the guide has been delivered unless an actual delivery integration is implemented.
+
+
+---
+
+
+12. RESPONSIVE DESIGN
+
+
+The reference image is a visual guide, not a fixed screenshot dimension.
+
+
+Create an actual responsive website.
+
+
+MOBILE:
+
+
+- Single-column content flow.
+- Properly sized photographs.
+- Readable headlines.
+- Comfortable spacing.
+- Full-width form.
+- No horizontal scrolling.
+- No overlapping sections.
+
+
+TABLET:
+
+
+- Balanced content proportions.
+- Appropriate image sizes.
+- Comfortable spacing.
+
+
+DESKTOP:
+
+
+- Sophisticated two-column hero.
+- Balanced text and image.
+- Elegant form placement.
+- Proper maximum content width.
+- Generous whitespace.
+
+
+The website must look intentionally designed for every screen size.
+
+
+---
+
+
+13. FINAL VERIFICATION
+
+
+Before declaring the project complete, verify:
+
+
+1. The embedded flyer has been completely removed.
+2. The website is built from actual HTML/CSS components.
+3. There is only one registration form.
+4. There is only one primary CTA.
+5. No Google Sheets setup panel appears publicly.
+6. No developer secrets are visible.
+7. The website follows the supplied visual reference.
+8. Mobile layout works properly.
+9. Desktop layout works properly.
+10. Form validation works.
+11. Google Sheets authorization works.
+12. A test submission creates an actual spreadsheet row.
+13. Existing records are preserved.
+14. Submission errors are handled correctly.
+15. No critical browser errors remain.
+
+
+Do not report successful tests that you have not actually performed.
+
+
+---
+
+
+FINAL NON-NEGOTIABLE DIRECTIVE
+
+
+REBUILD THE ENTIRE FRONTEND FROM SCRATCH.
+
+
+Use the supplied reference image ONLY to reproduce its visual design.
+
+
+DO NOT DISPLAY THE REFERENCE IMAGE AS A FLYER.
+
+
+DO NOT EMBED A COMPLETE WEBSITE SCREENSHOT INTO THE PAGE.
+
+
+DO NOT PLACE AN EXTRA FORM OUTSIDE THE DESIGN.
+
+
+DO NOT DISPLAY GOOGLE SHEETS CONNECTION SETTINGS TO WEBSITE VISITORS.
+
+
+DO NOT EXPOSE DEVELOPER SECRETS.
+
+
+Build a genuine, premium, responsive and functional lead-generation landing page.
+
+
+The final result must look like a real luxury wig boutique website, not a promotional poster or flyer.
+
+
+The reference design determines the visual direction. Your implementation must turn that design into a real website.

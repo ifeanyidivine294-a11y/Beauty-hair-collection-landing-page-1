@@ -1,0 +1,59 @@
+﻿Make a few targeted refinements to the existing Beauty Hair Collection landing page. DO NOT rebuild or redesign the website again.
+
+
+The current implementation is moving in the correct direction. Preserve the existing design, colours, typography, sections, form structure and overall visual identity.
+
+
+Make only these improvements:
+
+
+1. HERO IMAGE
+
+
+- Slightly reduce the height of the large wig photograph on mobile.
+- Maintain its premium appearance and natural proportions.
+- Do not crop the woman's face, hairline or important parts of her hairstyle.
+- Remove the floating "HD Invisible Swiss Lace Melt" badge unless it is an intentionally verified product feature.
+
+
+2. SPACING
+
+
+- Improve the spacing between the educational benefits, hero photograph and registration form.
+- Ensure the transitions between sections feel natural and professionally designed.
+
+
+3. FIRST SCREEN
+
+
+- When visitors initially open the website, the complete brand identity, headline and supporting paragraph must be properly visible.
+- Do not allow headings or content to be clipped by the viewport.
+
+
+4. REGISTRATION FORM
+
+
+- Preserve the existing ivory registration card.
+- Ensure Full Name, Email Address and Phone Number fields are present.
+- Ensure the primary "Send Me the Free Guide" button is visible below the fields.
+- Maintain proper spacing and mobile touch-friendly sizing.
+
+
+5. RESPONSIVENESS
+
+
+- Check the entire page from top to bottom on mobile.
+- Ensure no elements overlap, disappear or get clipped.
+- Maintain the premium desktop layout.
+
+
+IMPORTANT:
+Do not turn the page into a flyer.
+Do not embed the complete UI image.
+Do not add another form.
+Do not introduce new sections.
+Do not change the existing colour palette.
+Do not expose Google Sheets configuration on the public website.
+
+
+This is a minor refinement, not another redesign. Preserve everything that is already working.

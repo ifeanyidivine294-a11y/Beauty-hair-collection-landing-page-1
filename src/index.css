@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "DM Sans", system-ui, sans-serif;
+  --font-script: "Alex Brush", cursive;
+
+  --color-blush-pink: #F7E7EC;
+  --color-soft-rose: #EAC6D1;
+  --color-champagne-gold: #D6B477;
+  --color-deep-plum: #392632;
+  --color-warm-ivory: #FFF9F6;
+  --color-rich-berry: #B90D55;
+}
+
+.font-serif {
+  font-family: var(--font-serif);
+}
+
+.font-sans {
+  font-family: var(--font-sans);
+}
+
+.font-script {
+  font-family: var(--font-script);
+}
+
+/* Luxury gold shimmer ribbon */
+.gold-ribbon-bg {
+  background: linear-gradient(135deg, #ECC480 0%, #D6B477 40%, #B89254 75%, #D6B477 100%);
+}
+
+.plum-card-bg {
+  background: linear-gradient(145deg, #392632 0%, #2A1A24 100%);
+}
+
+.rich-berry-button {
+  background: linear-gradient(135deg, #B90D55 0%, #990B46 100%);
+}
+
+.rich-berry-button:hover {
+  background: linear-gradient(135deg, #C7115E 0%, #A30C4B 100%);
+}
+
+.luxury-card-shadow {
+  box-shadow: 0 16px 45px -10px rgba(57, 38, 50, 0.15), 0 4px 15px -2px rgba(185, 13, 85, 0.08);
+}
+
